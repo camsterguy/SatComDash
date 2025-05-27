@@ -1,0 +1,3 @@
+# Ignore virtual environments, node_modules, etc.
+__pycache__/
+node_modules/
